@@ -136,7 +136,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.23.0/firebas
 import { getMessaging, getToken, onMessage } from "https://www.gstatic.com/firebasejs/9.23.0/firebase-messaging.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDXJzPdwTbovTIPObZgEtsenWkWNRh6lDI",
+    apiKey: "AIzaSyBE43IZvIsQwebIBcnnRkaAdX7Nr0dfKxs",
     authDomain: "formacion-bruno.firebaseapp.com",
     projectId: "formacion-bruno",
     storageBucket: "formacion-bruno.appspot.com",
